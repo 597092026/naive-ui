@@ -3,7 +3,7 @@
 </markdown>
 
 <template>
-  <n-row gutter="12">
+  <n-row gutter="24">
     <n-col :span="6">
       <div class="light-green" />
     </n-col>
